@@ -28,12 +28,11 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Your story starts with us.
+                Fixing What's Broken!
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+                Our Mission is to provide electrical contractor’s services with
+                success by developing a professional workforce
               </Typography>
             </div>
           </div>

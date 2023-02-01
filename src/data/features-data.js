@@ -7,24 +7,24 @@ import {
 export const featuresData = [
   {
     color: "blue",
-    title: "Awarded Agency",
+    title: "Commercial Services",
     icon: StarIcon,
     description:
-      "Divide details about your product or agency work into parts. A paragraph describing a feature will be enough.",
+      "We offer value engineering with us you will save time and money. We provide efficient and economical solutions. We work within an excelllent time schedule to finish your project. Our commitment to you is delivering a project on time and on budget.",
   },
   {
     color: "red",
-    title: "Free Revisions",
+    title: "Residential Services",
     icon: ArrowPathIcon,
     description:
-      "Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious.",
+      "We provides electrical construction and electrical maintenance services directly to corporations, principally warehouses, shopping facilities restaurants, office complexes, municipalities or other government entities.",
   },
   {
     color: "teal",
-    title: "Verified Company",
+    title: "We are specialized",
     icon: FingerPrintIcon,
     description:
-      "Write a few lines about each one. A paragraph describing a feature will be enough. Keep you user engaged!",
+      "Condominium projects, Commercial service installations, Apartment complexes, Warehouse, Office complex installations, Hotel renovations and installation of power distributions systems and more.",
   },
 ];
 
